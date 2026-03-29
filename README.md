@@ -10,3 +10,18 @@ Slasher (Archive) Old Artwork Theme
 Triaxis Old Logo (Archive)
 
 <img width="416" height="120" alt="Screenshot from 2026-01-09 17-14-54" src="https://github.com/user-attachments/assets/68ee8c2b-88b4-4791-aa01-e72ed82b6b09" />
+
+Triaxis After It Completed But Still In Development
+<img width="1316" height="831" alt="Screenshot from 2026-01-10 11-26-46" src="https://github.com/user-attachments/assets/a80455b4-493e-4324-904e-37153424649c" />
+
+Triaxis GNOME (Legacy)
+<img width="1316" height="831" alt="Screenshot from 2026-01-10 11-25-01" src="https://github.com/user-attachments/assets/dff752fe-899b-45eb-85a2-72e8ed7c75d7" />
+
+Triaxis Sway
+<img width="1316" height="831" alt="Screenshot from 2026-01-10 11-23-30" src="https://github.com/user-attachments/assets/0a69fafd-55ee-4ec8-9ecf-daf44d58bb81" />
+
+Triaxis XFCE (Legacy)
+<img width="1316" height="831" alt="Screenshot from 2026-01-10 11-18-23" src="https://github.com/user-attachments/assets/603826ca-0729-4d2f-bfe6-dec16ba92fd5" />
+
+Proposed Triaxis Logo
+<img width="700" height="249" alt="Screenshot from 2026-01-08 18-25-56" src="https://github.com/user-attachments/assets/0e2e968f-39c0-45d6-8949-e7b275a054d5" />
