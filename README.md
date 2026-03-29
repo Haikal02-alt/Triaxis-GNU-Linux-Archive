@@ -2,7 +2,7 @@ Official Triaxis GNU/Linux Here https://github.com/Haikal02-alt/Triaxis-GNU-Linu
 
 This Is The Official Archive For Triaxis GNU/Linux
 
-Triaxis Artwork And Logo Archive Preview
+Triaxis Archive Preview
 
 Slasher (Archive) Old Artwork Theme
 ![Slasher 2](https://github.com/user-attachments/assets/daeabb3f-4bf9-4eef-97ab-2a4adac540da)
