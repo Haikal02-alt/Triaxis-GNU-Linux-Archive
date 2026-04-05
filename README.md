@@ -24,7 +24,9 @@ Triaxis XFCE (Legacy)
 <img width="1316" height="831" alt="Screenshot from 2026-01-10 11-18-23" src="https://github.com/user-attachments/assets/603826ca-0729-4d2f-bfe6-dec16ba92fd5" />
 
 Proposed Triaxis Logo
+
 <img width="700" height="249" alt="Screenshot from 2026-01-08 18-25-56" src="https://github.com/user-attachments/assets/0e2e968f-39c0-45d6-8949-e7b275a054d5" />
 
 TUR Logo
+
 <img width="704" height="275" alt="Screenshot from 2026-01-10 21-01-49" src="https://github.com/user-attachments/assets/afe4b5d3-15a7-428a-aee1-035c528ef1c0" />
