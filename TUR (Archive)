@@ -1,0 +1,10 @@
+What Is TUR
+# TUR (Triaxis User Repository)
+
+This is the community-driven repository for Triaxis GNU/Linux.
+
+Lists Are deb packages git clone apt and snaps
+
+Inspired by Arch’s AUR, but tailored for Triaxis GNU/Linux.
+
+Goal: allow users to submit and fetch packages not in the official repo.
